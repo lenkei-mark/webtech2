@@ -1,6 +1,6 @@
 # Web technológiák 2
 
-Kliens elindítása
+### Kliens elindítása
 
 cd client
 
@@ -10,7 +10,7 @@ npm start
 
 A kliens a localhost:3000 fut
 
-Szerver elindítása
+### Szerver elindítása
 
 cd server
 
