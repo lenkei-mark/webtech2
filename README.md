@@ -18,4 +18,4 @@ npm install
 
 npm run serve
 
-A szerver a localhost:9000-en fut
+A szerver a localhost:9000 fut
